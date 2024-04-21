@@ -2,19 +2,19 @@
 
 ### 介绍
 
-写在前面
+[写在前面](./index.md)
 
-Mac 环境准备
+[Mac 环境准备](./for-mac.md)
 
-Window 环境准备
+[Window 环境准备](for-window.md)
 
-改键建议及设置参考
+[改键建议及设置参考](keybinding.md)
 
 ### Vim
 
-Day 1：起步
+[Day 1：起步](./vim/day-1.md)
 
-Day 2：行相关命令
+[Day 2：行相关命令](./vim/day-2.md)
 
 Day 3：认识 vim 语法
 
